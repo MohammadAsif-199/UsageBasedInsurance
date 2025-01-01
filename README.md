@@ -36,8 +36,6 @@ Follow the cells step-by-step to run the data analysis, train the machine learni
 
 **Results**
 
-Model Performance: Summary of the performance metrics for the machine learning models.
-Feature Importance: Analysis of the key predictors of driving risk.
-Premium Calculation: Simulation of insurance premiums based on the predicted risk levels.
-
+By using K-Means clustering to segment drivers based on their behaviour, you can develop a usage-based insurance model that offers more personalized premiums.
+Drivers with safer habits are rewarded with lower premiums, while high-risk drivers are incentivized to improve their driving habits to reduce their premiums over time. This approach not only makes insurance fairer and more personalized but also encourages safer driving, leading to lower accident rates and a reduced environmental impact.
 
