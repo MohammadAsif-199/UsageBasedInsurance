@@ -1,4 +1,4 @@
-# UBI_Dashboard
+# UBI
 This is a dissertation research project designed by JOEL MOKOLO at the university of Sunderland, M.sc Computing to Analyze Usage-Based Insurance (UBI) models using telematics data to predict driving risk and personalize insurance premiums. This project leverages machine learning to assess driver behavior and explores ethical considerations, including data privacy and discrimination in UBI implementation.
 
 **Usage-Based Insurance (UBI) with Telematics Data Analysis**
